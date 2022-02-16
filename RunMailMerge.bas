@@ -27,7 +27,7 @@ Sub RunMailMerge()
             End With
             
             ' Loop over each record
-            For recordNumber = 1 To 3
+            For recordNumber = 1 To totalRecord
                 
                 ' One record at a time
                 With .DataSource
