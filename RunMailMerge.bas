@@ -6,7 +6,7 @@ Option Explicit
 ' Define parameters here
 Const INPUT_FILE As String = "path\to\input-file.csv" ' Must be a .csv as word has a 255 character limit on fields from .xlsx
 Const OUTPUT_DIR As String = "path\to\output-dir\" ' Include \ at end and ensure directory exists
-Const FILENAME As String = "AYRPR_D20211014_YP2122" ' e.g. BNPR_D20201104_YP192012 or AYRPR_D20211014_YP2122
+Const FILENAME As String = "" ' e.g. BNPR_D20201104_YP192012 or AYRPR_D20211014_YP2122
 
 
 Sub RunMailMerge()
