@@ -1,6 +1,8 @@
 # Dental Provider Assurance - Letter Automation
 
-This process can be automated through a mixture of Microsoft Word Mail Merge, Macros and R code. The steps are as follows:
+This process can be automated through a mixture of Microsoft Word Mail Merge, Macros and R code. This R package has been developed by the NHS Business Services Authority Data Science team.
+
+The steps are as follows:
 
 1. Create the input file
 2. Produce the individual `.pdf` files
